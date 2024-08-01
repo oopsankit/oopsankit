@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ANKIT SINGH </h1>
 <h3 align="center">Data Analyst</h3>
 <h3 align="center">A dedicated Data Analyst and Software Developer with a passion for turning complex data into actionable insights and creating innovative software solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/Users\oopsankit\OneDrive\Desktop\coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oopsankit&label=Profile%20views&color=0e75b6&style=flat" alt="oopsankit" /> </p>
 
