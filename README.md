@@ -13,7 +13,7 @@
 ### 🚀 About Me:
 - 🔭 I’m currently working on **AI-Powered Chatbots**  
 - 🌱 I’m currently learning **Machine Learning (ML) and Advanced AI**  
-- 💬 Ask me about **Python, SQL, Power BI, Flask, Django, AWS, APIs**  
+- 💬 Ask me about **Python, HTML5, CSS3, JavaScript, SQL, Power BI, Flask, Django, APIs**  
 - 📫 How to reach me **Ankit971999@gmail.com**  
 - ⚡ Fun Fact: "I turn coffee into code ☕💻"  
 
@@ -63,10 +63,14 @@
 ### 🚀 Visit My YouTube Channel:
 <div align="center">
   <a href="https://www.youtube.com/@oopsankit" target="_blank">
-    <img src="https://media.giphy.com/media/1hY2gEKg9U1htIQdB4/giphy.gif" alt="YouTube Animation" width="400" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="200" />
   </a>
-  <p><a href="https://www.youtube.com/@oopsankit" target="_blank">Click here to visit my YouTube Channel and explore more content!</a></p>
+  <p><a href="https://www.youtube.com/@oopsankit" target="_blank">Click here to visit my YouTube Channel!</a></p>
 </div>
+
+
+
+
 
 
 
