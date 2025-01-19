@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oopsankit&show_icons=true&theme=radical" alt="oopsankit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oopsankit&theme=radical" alt="oopsankit's GitHub Streak Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oopsankit&layout=compact&theme=radical" alt="oopsankit's Most Used Languages" />
 </div>
 
