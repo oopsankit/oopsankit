@@ -4,7 +4,8 @@
 <h3 align="center">Software Developer</h3>
 <h3 align="center">Turning ideas into innovative software solutions with precision, creativity, and passion.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/man-doing-binary-coding-on-laptop-11079466">
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_zilgn5bq.json" background="transparent" speed="1" loop autoplay></lottie-player>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oopsankit&label=Profile%20views&color=0e75b6&style=flat" alt="oopsankit" /> </p>
 
