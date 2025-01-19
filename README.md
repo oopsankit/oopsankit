@@ -60,7 +60,14 @@
 
 ---
 
-### 🎨 Animated Graphics:
+### 🚀 Visit My YouTube Channel:
 <div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Coding Dinosaur" />
+  <a href="https://www.youtube.com/@oopsankit" target="_blank">
+    <img src="https://media.giphy.com/media/1hY2gEKg9U1htIQdB4/giphy.gif" alt="YouTube Animation" width="400" />
+  </a>
+  <p><a href="https://www.youtube.com/@oopsankit" target="_blank">Click here to visit my YouTube Channel and explore more content!</a></p>
 </div>
+
+
+
+
